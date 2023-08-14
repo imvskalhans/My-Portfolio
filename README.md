@@ -8,7 +8,7 @@ This portfolio is a collection of my personal projects, skills, and achievements
 
 ## Demo
 
-You can view the live portfolio at [MyPortfolioURl](https://imvskalhans.github.io/My-Portfolio/)
+You can view the live portfolio at [MyPortfolioURL](https://imvskalhans.github.io/My-Portfolio/)
 
 ## Features
 
@@ -36,19 +36,14 @@ You can view the live portfolio at [MyPortfolioURl](https://imvskalhans.github.i
 
 Explore the portfolio to learn more about my projects and skills. If you're interested in collaborating or have any questions, don't hesitate to [contact me](#vsk6645@gmail.com).
 
-## Screenshots
-
-![Screenshot 1](https://imvsk-my.sharepoint.com/:i:/g/personal/imvskalhans_imvsk_onmicrosoft_com/EdptXANxOYlMlV1YIk7WDSIBxl9fM-T7EzBtp-C9pz87ug?e=N32jXX)
-![Screenshot 2](https://imvsk-my.sharepoint.com/:i:/g/personal/imvskalhans_imvsk_onmicrosoft_com/EXMb3uwIC3lFoFCR6QrtXJ4BGhuAZYaVnaQ6LtsvJvOZ2A?e=uChpSc)
-![Screenshot 3](https://imvsk-my.sharepoint.com/:i:/g/personal/imvskalhans_imvsk_onmicrosoft_com/ESjOFIBpdr9FqvTqx024YQcBoVMHXNBrYffDfzOtYXjFRw?e=4a1kfY)
 
 ## Contact
 
 Feel free to get in touch with me:
 
-- Email: your.email@example.com
-- LinkedIn: [MyLinkedInProfile](https://www.linkedin.com/in/imvskalhans/)
-- Twitter: [@MyTwitterHandle](https://twitter.com/ImVSKalhans)
+- Email: vsk6645@gmail.com
+- LinkedIn: [Vishal Singh](https://www.linkedin.com/in/imvskalhans/)
+- Twitter: [@imvskalhans](https://twitter.com/ImVSKalhans)
 
 ## License
 
